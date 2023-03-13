@@ -1,0 +1,9 @@
+public void aperturaCuenta (double cantidadApertura)
+if (cantidadApertura > 01 && cantidaApertura <= 100)
+{
+  saldo = cantidadApertura;
+}
+else 
+{
+  saldo = 0;
+}
